@@ -4,7 +4,7 @@ import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import ua.pp.oped.BludBourne;
+import ua.pp.oped.bludbourne.BludBourne;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
